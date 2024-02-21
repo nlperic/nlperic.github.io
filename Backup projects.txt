@@ -1,0 +1,37 @@
+My current research focus on *control* and *autonomy*. In particular, I work on developing robust, adaptive and nonlinear control algorithms (with machine learning-enabled elements) to ensure safe and efficient operation of aerospace, robotic and autonomous systems in dynamic and uncertain environments. I am also interested in applying machine learning to optimize agricultural management for sustainable and resilient agriculture. Specific projects that I have been working on include
+- Integrated planning and control for robotic and autonomous systems with nonlinear and uncertain dynamics
+- Safe and robust learning-enabled control via active uncertainty compensation
+- Adaptive control of aerospace systems under time-varying desired dynamics 
+- Integrated adaptive control and reference governors for constrained control of uncertain systems
+- Intelligent agricultural management with reinforcement learning
+- Robust and gain-scheduled control with application to mechatronic systems
+
+
+== Robust and optimal switching linear parameter-varying (LPV) control 
+Real-world mechatronic, aerospace and robotic systems often have complex nonlinear and/or time-varying dynamics. Control design for such systems needs to consider these complex dynamics to ensure stability and performance. Linear parameter-varying (LPV) control provides a systematic and easy-to-implement way for gain-scheduled control of nonlinear and/or time-varying systems. 
+To deal with large dynamics variation, switching LPV control has also been proposed for reducing the conservativeness of LPV control. In practice, the scheduling parameters (e.g., wind speed for a wind turbine system) are often measured with errors, and ignoring such errors in controller design could lead to degraded performance or even loss of stability. We proposed an approach to designing switching LPV controllers with stability and performance guarantees despite measurement errors in scheduling parameters. We also developed methods to optimally design a switching LPV controller’s switching surfaces for improved performance. These methods were applied to control an automotive engine and a floating wind turbine.  
+~~~
+{}{img_left}{https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/slpv.jpg?raw=true}{alt text}{560}{}{https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/slpv.jpg?raw=true}
+~~~
+References 
+- P. Zhao and R. Nagamune. Switching LPV controller design under uncertain scheduling parameters. Automatica, 76: 243–250, 2017.
+- P. Zhao and R. Nagamune. Switching linear parameter-varying control with improved local performance and optimized switching surfaces. /International Journal of Robust and Nonlinear Control/, 28: 3403–3421, 2018.
+- P. Zhao and R. Nagamune. Optimal switching surface design for state-feedback switching LPV control. /American Control Conference/, pp. 817–822, 2015. 
+- P. Zhao and R. Nagamune. Optimal switching surface design for switching LPV control and its application to air-fuel ratio control of an automotive engine. /IEEE Conference on Control Technology and Applications (CCTA)/, pp. 898–903, 2017.
+- P. Zhao and R. Nagamune. Switching LPV control of a floating offshore wind turbine on a semi-submersible platform. /IEEE 28th International Symposium on Industrial Electronics/, pp. 664-669, 2019.
+- P. Zhao and R. Nagamune. Discrete-time state-feedback switching LPV Control with seperate Lyapunov functions for stability and local performance. /American Control Conference/, pp. 2023–2028, 2018.
+
+
+== Robust and gain-scheduled control of miniaturized optical image stabilizers (OISs)
+In this project,  we developed robust and gain-scheduled controllers for miniaturized optical image stabilizers to deal with the inevitable product variations that induce dynamics change across different products. The controllers were experimentally validated on both large-scale and small-scale prototypes. 
+~~~
+{}{img_left}{https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/OIS-ExpSetup.png?raw=true}{Experimental setup with the large-scale prototype}{560}{345}{https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/OIS-ExpSetup.png?raw=true}
+~~~
+
+References
+- A. Alizadegan, P. Zhao, R. Nagamune and M. Chiao. Experimental validation of a robust $H_\infty$ control method on miniaturized optical image stabilizer prototypes. /Journal of Dynamic Systems, Measurement, and Control/, 142(12): 124501, 2020. 
+- P. Zhao, R. Nagamune and M. Chiao. Multiple parameter-dependent robust control of miniaturized optical image stabilizers. /Control Engineering Practice/, 2018, 76: 1–11. 
+- A. Alizadegan, P. Zhao, R. Nagamune and M. Chiao. Robust $H_\infty$ control of miniaturized optical image stabilizers against product variabilities. /Control Engineering Practice/, 80: 70–82, 2018. 
+- P. Zhao, A. Alizadegan, R. Nagamune and M. Chiao. Robust control of large-scale prototypes for miniaturized optical image stabilizers with product variations. /SICE Annual Conference/, pp. 925–930, 2015. 
+
+
