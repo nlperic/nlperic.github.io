@@ -7,16 +7,21 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <title>Selected Publications</title>
 <!-- MathJax -->
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+<script>
+window.MathJax = {
+  tex: {
+    tags: 'ams'
+  }
+};
+MathJax = {
+  loader: {
+    load: ['input/tex-base', 'output/svg', 'ui/menu', '[tex]/require']
+  },
+  tex: {
+    packages: ['base', 'require']
+  }
+};
 </script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-	  TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
-<!-- End MathJax -->
-</head>
-<body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
@@ -87,7 +92,7 @@ MathJax.Hub.Config({
 </div></div>
 <div id="footer">
 <div id="footer-text">
-Page generated 2024-02-21 20:06:50 China Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2024-02-21 21:13:44 China Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
