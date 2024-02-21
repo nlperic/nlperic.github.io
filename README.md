@@ -1,2 +1,0 @@
-# nlperic.github.io
-Homepage
