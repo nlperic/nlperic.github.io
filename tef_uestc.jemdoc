@@ -20,12 +20,21 @@
 - 作业：道路通行能力
 - 课程设计：编程解决现实规模问题，信号控制/配送问题/交通方式划分三选一
 
+== 教材
+
+教材：
+
+. 王炜、陈峻、过秀成等. 交通工程学（第3版）. 南京：东南大学出版社. 2019.
+. Fred L. Mannering, Scott S. Washburn. Principles of Highway Engineering and Traffic Analysis. Wiley. 2019.
+. Kenneth Train. Discrete Choice Methods with Simulation. 2nd Edition. Cambridge University Press. 2009
+. Andreas Horni, Kai Nagel, Kay W. Axhausen (eds.) The Multi-Agent Transport Simulation MATSim. London: Ubiquity Press. 2016
+
 == 课件（每年更新）
 
 - 1. 交通工程学简介 \[[../assets/pdf/TrafficEngineeringFundaments/1.Introduction.pdf 下载或阅读 ]\] 
-- 2. 人、车、路的交通特性 \[[../assets/pdf/TrafficEngineeringFundaments/2.Characteristics.pdf 下载或阅读]\] 
+- 2. 人、车、路的交通特性 \[[../assets/pdf/TrafficEngineeringFundaments/2.Characteristics.pdf 下载或阅读 ]\] 
 - 3. 交通流特性 \[[../assets/pdf/TrafficEngineeringFundaments/3.Trafficchar.pdf 下载或阅读]\] 
-- 4. 交通调查 \[[../assets/pdf/TrafficEngineeringFundaments/4.Surveying.pdf ]\] 
+- 4. 交通调查 \[[../assets/pdf/TrafficEngineeringFundaments/4.Surveying.pdf 下载或阅读 ]\] 
 - 5. 交通流理论 \[[../assets/pdf/TrafficEngineeringFundaments/5.Trafficflow.pdf 下载或阅读 ]\] 
 - 6. 交通仿真简介 \[[../assets/pdf/TrafficEngineeringFundaments/6.Simulation.pdf 下载或阅读 ]\] 
 - 7. 道路通行能力(1) \[[../assets/pdf/TrafficEngineeringFundaments/7-8.HC&LOS.pdf 下载或阅读 ]\] 
