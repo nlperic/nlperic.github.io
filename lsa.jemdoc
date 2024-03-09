@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{teaching.html}
+= 物流系统分析
+
+
+== 课程简介
+
+本课程的目的是通过对物流系统中的流、流的载体、物流活动、物流要素等进行微观深入的分析，以实现高效物流和配送系统的设计。本课程将围绕物流系统分析所需要的数据、构建的模型和算法理论等进行阐述。
+
+== 课程信息
+
+- 上课时间：X
+- 上课地点：X
+- 课程内容：
+	-- 物流系统各个物流环节费用与效益的量化分析，
+	-- 物流系统简化分析思路和策略，
+    -- 一对一配送的最优化方法
+	-- 一到多的配
+	-- 有转运的一到多配送
+	-- 多到多的配送的问题。
+
+== 考核要求
+
+- 作业：两次作业
+- 期末考试：见 \[[../assets/pdf/LSA/recit-2023-2024-1A.pdf 复习提纲 ]\] 
+
+== 课件（每年更新）
+
+- 1. 简介 \[[../assets/pdf/LSA/Introduction.pdf 下载或阅读 ]\] 
+- 2. 简洁模型的作用 \[[../assets/pdf/LSA/SimpleModel.pdf 下载或阅读 ]\] 
+- 3. 物流系统成本的识别 \[[../assets/pdf/LSA/Cost.pdf 下载或阅读 ]\] 
+- 4. 1到1配送系统（1） \[[../assets/pdf/LSA/1to1a.pdf 下载或阅读 ]\] 
+- 5. 1到1配送系统（2） \[[../assets/pdf/LSA/1to1b.pdf 下载或阅读 ]\] 
+- 6. 1到1配送系统（3） \[[../assets/pdf/LSA/1to1c.pdf 下载或阅读 ]\]  
+- 7. 1到多配送系统（1）\[[../assets/pdf/LSA/1toN-part1.pdf 下载或阅读 ]\]  
+- 8. 1到多配送系统（2）\[[../assets/pdf/LSA/1toN-part2.pdf 下载或阅读 ]\]   
+- 9. 1到多配送系统（3）\[[../assets/pdf/LSA/1toN-part3.pdf 下载或阅读 ]\]  
+- 10. 带转运的1到多配送系统（1）\[[../assets/pdf/LSA/1toNT-part1.pdf 下载或阅读 ]\]  
+- 11. 带转运的1到多配送系统（2）\[[../assets/pdf/LSA/1toNT-part2.pdf 下载或阅读 ]\] 
+- 12. 带转运的1到多配送系统（3）\[[../assets/pdf/LSA/1toNT-part3.pdf 下载或阅读 ]\] 
+- 13. 多到多配送系统（1）\[[../assets/pdf/LSA/NtoN-part1.pdf 下载或阅读 ]\]
+- 14. 多到多配送系统（2）\[[../assets/pdf/LSA/NtoN-part1.pdf 下载或阅读 ]\]
+- 15. 多到多配送系统（3）\[[../assets/pdf/LSA/NtoN-part1.pdf 下载或阅读 ]\]
