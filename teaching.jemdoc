@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{teaching.html}
 = Teaching
 
+All courses are taught in Chinese.
 
 == Southwest Jiaotong University
 - Undergraduate
@@ -15,4 +16,4 @@
 	-- S1075006 Systems Science Theory and Methods, Fall 2020-2023
 
 == University of Electronic Science and Technology of China
-- R0901320.01 Traffic Engineering Fundamentals, Spring 2023-2024
+- R0901320.01 [../tef_uestc.html Traffic Engineering Fundamentals], Spring 2023-2024
