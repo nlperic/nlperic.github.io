@@ -1,13 +1,23 @@
-Homepage of Qian Ge
+---
+title: Readme
+...
 
-- Create the htmls by simply running:
+- Create the html files by simply running
 
 ```python
 python jemdoc -c mysite.conf -o www/ *.jemdoc
 ```
 
-- solution to charset problem of CJK
+at the home directory.
 
-1. generate the html files, now there may exist unrecognized characters;
-2. recover the files to other enconding with special characters, for example, GBK; 
-3. convert to the utf-8 encoding.
+- Solution to charset problem of CJK
+
+> 1. generate the html files, now there may exist unrecognized characters;
+> 2. recover the files to other enconding with special characters, for example, GBK; 
+> 3. convert to the utf-8 encoding.
+
+- Convert markdown files to html format
+
+```
+pandoc --standalone xxx.md -o xxx.html
+```
