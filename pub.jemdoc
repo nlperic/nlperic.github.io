@@ -5,7 +5,8 @@ For an up-to-date publication list, please see my [https://scholar.google.com/ci
 
 == Journal Papers
 
-~~~
+~~~ 
+. Han, K., Huang, T., Fan, W., *Ge, Q.*, Dong, S., Wang, X. 2024. Macroscopic fundamental diagram with volume-delay relationship: Model derivation, empirical validation and invariance property. /Transportation Research Part C: Emerging Technologies/, 166, 104739
 . Hong, Y., Yan, W., *Ge, Q*. 2023. Designing sustainable logistics networks for classified municipal solid wastes collection and transferring with multi-compartment vehicles. /Sustainable Cities and Society/, 99, 104921
 . *Ge, Q.*, Han, K., Liu, X. 2021. Matching and routing for shared autonomous vehicles in congestible network. /Transportation Research Part E: Logistics and Transportation Review/, 156, 102513
 . Dantsuji, T., Hirabayashi, S., *Ge, Q.* and Fukuda, D., 2020. Cross comparison of spatial partitioning methods for an urban transportation network. /International Journal of Intelligent Transportation Systems Research/, 18, pp.412-421.
@@ -17,11 +18,10 @@ For an up-to-date publication list, please see my [https://scholar.google.com/ci
 == Working Papers
 
 ~~~
-. Liu, S., *Ge, Q.*, Han, K. A paper on mechanism design.
+. Liu, S., *Ge, Q.*, Han, K. Mechanism design for coordinating vehicle-based mobile sensing tasks within the ride-hailing platform
+. Ji, W., Han, K., *Ge Q.*. Route planning of mobile sensing fleets for repeatable visits
+. Yu, L., *Ge Q.*, Han, K., Ji, W. A paper on route planning for waste collection.
 . Zhang, Y., *Ge, Q.*, Han, K. A paper on mechanism design.
 . *Ge, Q.*, Liu, J., Han, K.  A paper on interdiction games.
 . Cao P., Chen Y., Su Z., *Ge Q.* A paper on mechanism design.
-. Han, K., Huang, T., Fan, W., *Ge, Q.*, Dong, S., Wang X. A paper on MFD
-. Ji, W., Han, K., *Ge Q.* A paper on TOP
-. Yang B., Han, K., Tu, W., *Ge Q.* A paper on vehicle-cargo matching
 ~~~

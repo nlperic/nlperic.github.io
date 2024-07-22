@@ -19,5 +19,6 @@ at the home directory.
 - Convert markdown files to html format
 
 ```
-pandoc source.md -o destination.html --template=easy_template.html
+pandoc --standalone --css=jemdoc.css xxx.md -o xxx.html 
 ```
+---
