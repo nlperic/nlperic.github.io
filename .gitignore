@@ -2,8 +2,6 @@ www/
 
 jemdoc
 
-jemdoc.css
-
 latexmath2png.py
 
 *.jemdoc
