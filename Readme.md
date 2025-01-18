@@ -5,7 +5,9 @@ title: Readme
 - Create the html files by simply running
 
 ```python
-python jemdoc -c mysite.conf -o www/ *.jemdoc
+% python jemdoc -c mysite.conf -o www/ *.jemdoc
+python jemdoc.py -i ./jemdocs -o ./www -c mysite.conf
+
 ```
 
 at the home directory.
